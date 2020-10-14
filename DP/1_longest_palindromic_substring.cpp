@@ -1,11 +1,3 @@
-//
-//  1_longest_palindromic_substring.cpp
-//  leetcode_apple
-//
-//  Created by Akshay Anand on 10/05/20.
-//  Copyright © 2020 Akshay Anand. All rights reserved.
-//
-
 #include <iostream>
 #include <vector>
 #include <string>
