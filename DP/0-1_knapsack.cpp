@@ -9,6 +9,7 @@
 #include <unordered_set>
 #include <stack>
 #include <queue>
+using namespace std;
 int knapSackRec(int W, int wt[], int val[], 
                 int i, int** dp) 
 { 
